@@ -6,4 +6,4 @@ Project Euler - Problem #2
 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms."
 
-To get value run `ruby problem2.rb`. If you want to test other max values uncomment last line in `problem2.rb` file (`run_test`) and run `ruby problem2.rb` again.
+To get value run `ruby run.rb`. If you want to test other max values uncomment last line in `run.rb` file (`run_test`) and run `ruby run.rb` again.
